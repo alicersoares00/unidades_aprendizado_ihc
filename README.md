@@ -89,3 +89,19 @@ A lógica de negócios, a engenharia de acessibilidade, o design de IHC e a reso
 ## Observação sobre as UA2 e UA3
 
 > **Nota de Avaliação:** Os arquivos correspondentes à **Unidade 2 (UA2)** e **Unidade 3 (UA3)** estão entregues no formato `.txt`. Estas unidades solicitavam exclusivamente respostas discursivas e análises teóricas sobre os cenários propostos em aula, **não havendo nenhuma solicitação ou necessidade de desenvolvimento de código-fonte** para ambas.
+
+---
+
+## Considerações Finais:
+A realização deste conjunto de desafios proporcionou um entendimento profundo sobre a indissociabilidade entre a engenharia de software e os fatores humanos. O desenvolvimento da UA1 e UA2 consolidou o entendimento prático de que interfaces acessíveis e semânticas não são apenas recursos adicionais, mas sim pilares de usabilidade e responsabilidade técnica que evitam erros operacionais graves.
+
+Na UA3, ficou clara a importância do amadurecimento conceitual e do design centrado na dor do usuário antes de iniciar qualquer linha de desenvolvimento. Por fim, a UA4 permitiu transpor regras de negócios para arquiteturas de código robustas e seguras utilizando os pilares da orientação a objetos e da tipagem estrita do TypeScript.
+
+---
+
+## Declaração de Autoria
+Declaro que este trabalho foi desenvolvido por mim, respeitando as normas acadêmicas e de integridade estabelecidas pela instituição.
+
+Nome do Estudante: ALICE RODRIGUES SOARES
+
+Data: 10/06/2026
