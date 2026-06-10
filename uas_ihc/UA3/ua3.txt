@@ -1,0 +1,8 @@
+ Para o desenvolvimento da solução solicitada pelo Ricardo à empresa Desenvolve!, a equipe de design deve seguir um processo estruturado de Design Centrado no Usuário, 
+ focado em superar a dificuldade de locomoção em ambientes desconhecidos causada pela perda gradativa de sua visão. 
+ O primeiro passo consiste na imersão e análise do domínio, onde a equipe estuda as tecnologias que o usuário já domina, como os smartphones, 
+ relógios inteligentes e sensores residenciais, para entender como integrá-los em uma ferramenta de auxílio externo.Em seguida, 
+ realiza-se o levantamento de requisitos funcionais, priorizando a criação de uma interface de áudio ou tátil que complemente o uso da bengala branca e a orientação pelo piso tátil. 
+ Na fase de ideação e prototipagem, a equipe projeta o fluxo de interação, transformando sinais de GPS e sensores de proximidade em instruções sonoras claras que guiem o Ricardo com segurança.
+ O estágio subsequente envolve testes de usabilidade e acessibilidade diretamente com o usuário, validando se a solução realmente facilita suas tarefas diárias sem gerar frustração. 
+ Por fim, o processo é encerrado com a iteração e o refinamento do artefato, ajustando detalhes técnicos e de interface com base no feedback real do Ricardo para garantir que ele recupere sua autonomia de movimento.

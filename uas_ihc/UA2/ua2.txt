@@ -1,0 +1,6 @@
+A) Para este projeto, a recomendação ideal é o desenvolvimento de uma Interface de Usuário de Áudio (AUI), integrada com funcionalidades de Interface de Voz (VUI). 
+Diferente das interfaces puramente gráficas, esse modelo prioriza a sonorização e o comando vocal, permitindo que o funcionário gerencie os cursos de forma direta e natural. 
+A escolha justifica-se pela eliminação de barreiras visuais complexas, transformando a navegação em um fluxo lógico de diálogos e feedbacks sonoros que garantem autonomia e reduzem o esforço cognitivo do usuário.
+
+B) Quanto aos equipamentos, o ecossistema de trabalho deve contar com softwares leitores de tela (como NVDA ou JAWS) para converter o conteúdo em voz, e linhas braille, que traduzem o texto da tela em relevo tátil para conferências precisas de dados. 
+Além disso, o uso de headsets de alta qualidade com microfones de cancelamento de ruído é essencial para a interação por voz, acompanhados de teclados com boa resposta tátil para garantir velocidade e segurança na inserção de informações no gerenciador.

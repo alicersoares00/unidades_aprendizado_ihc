@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sistema de Folha de Pagamento</title>
+  <style>
+    /* Estilos Gerais para o Modal */
+    .modal-folha {
+      border: none;
+      border-radius: 8px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+      font-family: Arial, sans-serif;
+      max-width: 500px;
+      padding: 24px;
+      width: 90%;
+    }
+
+    /* Backdrop (Fundo escurecido atrás do modal) */
+    .modal-folha::backdrop {
+      background-color: rgba(0, 0, 0, 0.5);
+    }
+
+    .modal-titulo {
+      color: #222;
+      font-size: 1.2rem;
+      font-weight: bold;
+      margin-top: 0;
+      text-transform: uppercase;
+      text-align: center;
+      border-bottom: 1px solid #eee;
+      padding-bottom: 12px;
+    }
+
+    .modal-texto {
+      color: #444;
+      font-size: 1.1rem;
+      margin: 24px 0;
+      text-align: center;
+    }
+
+    /* Container dos botões */
+    .modal-acoes {
+      display: flex;
+      gap: 16px;
+      justify-content: center;
+    }
+
+    /* Estilo base dos botões */
+    .btn {
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 1rem;
+      font-weight: bold;
+      padding: 12px 24px;
+      transition: background-color 0.2s ease;
+    }
+
+    /* Botão Cancelar (Ação Segura / Neutra) */
+    .btn-cancelar {
+      background-color: #f3f4f6;
+      color: #1f2937;
+    }
+
+    .btn-cancelar:hover {
+      background-color: #e5e7eb;
+    }
+
+    /* Botão Excluir (Ação Destrutiva / Alerta) */
+    .btn-excluir {
+      background-color: #dc2626;
+      color: #ffffff;
+    }
+
+    .btn-excluir:hover {
+      background-color: #b91c1c;
+    }
+
+    /* Garante visibilidade para navegação via teclado (Acessibilidade) */
+    .btn:focus-visible {
+      outline: 3px solid #3b82f6;
+      outline-offset: 2px;
+    }
+  </style>
+</head>
+<body>
+
+  <button onclick="document.getElementById('modalExclusao').showModal()" class="btn">
+    Simular Exclusão
+  </button>
+
+  <dialog id="modalExclusao" class="modal-folha" aria-labelledby="modal-titulo">
+    
+    <header>
+      <h2 id="modal-titulo" class="modal-titulo">Sistema de Folha de Pagamento</h2>
+    </header>
+    
+    <p class="modal-texto">
+      Confirma a exclusão do usuário <strong>"João"</strong>?
+    </p>
+
+    <form method="dialog" class="modal-acoes">
+      <button value="cancel" class="btn btn-cancelar" autofocus>Cancelar</button>
+      <button value="confirm" class="btn btn-excluir">Confirmar Exclusão</button>
+    </form>
+
+  </dialog>
+
+</body>
+</html>

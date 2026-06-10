@@ -1,0 +1,8 @@
+
+Para melhorar a interface do sistema de folha de pagamento, é necessário torná-la mais clara, intuitiva e segura para o usuário. 
+A mensagem exibida deve ser objetiva e explicar melhor a ação, informando, por exemplo, que a exclusão é permanente e não pode ser desfeita. 
+Os botões também precisam ser mais claros, substituindo termos genéricos como “Avançar” e “Retornar” por opções diretas como “Excluir” e “Cancelar”, evitando confusões. 
+Além disso, o layout deve ser modernizado, com melhor organização visual, destaque para informações importantes, uso adequado de cores e contraste, facilitando a leitura e a compreensão. 
+É importante também oferecer feedback após a ação, confirmando se a operação foi realizada com sucesso. 
+Como se trata de um sistema sensível, mecanismos de prevenção de erros, como exibir os dados do usuário antes da exclusão ou solicitar confirmação adicional, devem ser implementados. 
+Por fim, a interface deve seguir padrões de acessibilidade e consistência, garantindo facilidade de uso para todos os usuários e reduzindo falhas operacionais.
